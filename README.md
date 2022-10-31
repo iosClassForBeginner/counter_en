@@ -2,7 +2,7 @@
 
 <img src="https://github.com/iosClassForBeginner/counter_en/blob/main/assets/ss-1.png" width="200px" />
 
-Thank you for visiting our account. We are going to make a fireworks app in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
+Thank you for visiting our account. We are going to make a counter app in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
 
 ## Meetup
 We are providing free hands-on on a monthly basis
