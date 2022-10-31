@@ -1,13 +1,13 @@
 //
-//  CountActions.swift
-//  coutner_app
+//  CountActionsView.swift
+//  counter_app
 //
 //  Created by Wataru Maeda on 2022/10/30.
 //
 
 import SwiftUI
 
-struct CountActions: View {
+struct CountActionsView: View {
   @Binding var count: Int
   
   var body: some View {
@@ -35,9 +35,9 @@ struct CountActions: View {
   }
 }
 
-struct CountActions_Previews: PreviewProvider {
+struct CountActionsView_Previews: PreviewProvider {
   @State static var count = 1
   static var previews: some View {
-    CountActions(count: $count)
+    CountActionsView(count: $count)
   }
 }

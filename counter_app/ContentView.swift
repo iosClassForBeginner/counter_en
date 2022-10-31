@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  coutner_app
+//  counter_app
 //
 //  Created by Wataru Maeda on 2022/10/30.
 //
@@ -32,15 +32,16 @@ struct ContentView: View {
         
         Spacer()
         
-        CountActions(count: $count)
+        CountActionsView(count: $count)
           .padding(.bottom, 24)
       }
     }
   }
+
 }
 
 struct ContentView_Previews: PreviewProvider {
-  static var previews: some View {
-    ContentView()
-  }
+    static var previews: some View {
+        ContentView()
+    }
 }
