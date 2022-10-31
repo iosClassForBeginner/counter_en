@@ -1,6 +1,6 @@
 # Code Together: Let's make iPhone app in an hour
 
-<img src="https://github.com/iosClassForBeginner/counter_en/blob/main/assets/ss-1.png" width="200px" />
+<img src="https://github.com/iosClassForBeginner/counter_en/blob/main/assets/ss-1.png" width="100%" />
 
 Thank you for visiting our account. We are going to make a counter app in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
 
@@ -85,6 +85,17 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 ```
+
+## References
+
+- [State](https://swiftontap.com/state)
+- [Binding](https://swiftontap.com/binding)
+- [ZStack](https://swiftontap.com/zstack)
+- [VStack](https://swiftontap.com/vstack)
+- [HStack](https://swiftontap.com/hstack)
+- [ViewModifer](https://swiftontap.com/viewmodifier)
+- [Text](https://swiftontap.com/text)
+- [Button](https://swiftontap.com/button)
 
 ## Excersice
 
